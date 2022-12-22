@@ -50,4 +50,4 @@ Code and the compiled file for `firefoxDecrypt` are both present in this reposit
 
 ## License
 
-[Pincher]() is licensed under the MIT license as stated in the [LICENSE]() file
+[Pincher](https://github.com/0xcabrex/Pincher) is licensed under the MIT license as stated in the [LICENSE](https://github.com/0xcabrex/Pincher/blob/master/LICENSE) file
