@@ -42,7 +42,6 @@ pyinstaller --onefile firefoxDecrypt.py
 
 The compiled `firefoxDecrypt.exe` file (present in the `dist/` folder) needs to be in the same directory as `pincher.py`/`pincher.exe` for it to run.
 
-Code and the compiled file for `firefoxDecrypt` are both present in this repository.
 
 #### Note that there will be no errors reported, since its meant to get the job done asap.
 
