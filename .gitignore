@@ -1,5 +1,2 @@
-*dist*
-*build*
-*.spec
+build/
 final/
-*.exe
